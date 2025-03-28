@@ -5,7 +5,7 @@ Wordpress web designer<br/>
 - 🔭 Here's my [portfolio](https://www.linkedin.com/in/mass-kannan4/)                                                 
 - 🌱 I’m currently learning MERN stack web development
 - Engineeing at [https://arunai.org/]
-- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
+- Previously worked with [<img src="https://img.icons8.com/ios-filled/50/viadeo.png" height="24">]()
 - ⚡ Fun fact: I know english.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mass-kannan4/) <br/>
