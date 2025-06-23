@@ -2,7 +2,7 @@
 
 Wordpress web designer<br/>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]([https://www.linkedin.com/in/mass-kannan4/](https://neon-lebkuchen-e8fc26.netlify.app/))                                                 
+- 🔭 Here's my [portfolio](https://neon-lebkuchen-e8fc26.netlify.app/)                                                
 - 🌱 I’m currently learning MERN stack web development
 - Engineeing at [https://arunai.org/]
 - Previously worked with [<img src="https://img.icons8.com/ios-filled/50/viadeo.png" height="24">]()
